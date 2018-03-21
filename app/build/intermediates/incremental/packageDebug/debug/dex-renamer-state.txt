@@ -1,0 +1,4 @@
+#Wed Mar 21 18:25:42 CST 2018
+base.0=/Users/kaylee/Documents/ReadData/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
